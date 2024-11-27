@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "halakmuhammet145@gmail.com",
+                "Name": "Muhammet Halak",
+                "Name[ar]": "محمد حلاق"
+            }
+        ],
+        "Id": "Bismih_Theme",
+        "License": "MIT",
+        "Name": "Istanbul sunset",
+        "Name[ar]": "اسطنبول غروب الشمس",
+        "Name[tr]": "Istanbul gün batımı"
+    }
+}
